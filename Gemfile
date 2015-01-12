@@ -45,3 +45,6 @@ end
 
 gem 'devise'
 gem 'koudoku'
+
+gem 'bootstrap-sass', '~> 3.3.1'
+gem 'autoprefixer-rails'
